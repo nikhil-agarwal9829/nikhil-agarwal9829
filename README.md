@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Currently working on AI-powered web applications, machine learning projects, and network security tools<br><br>👯 Looking to collaborate on full-stack development, AI/ML, data analytics, and cybersecurity projects<br><br>🌱 Currently learning advanced Java, scalable backend systems, and secure application design<br><br>💬 Ask me about web development, machine learning, data-driven systems, and hackathon projects<br><br>⚡ Fun fact I love turning complex problems into clean, real-world solutions
+#  About Me:
+ Currently working on AI-powered web applications, machine learning projects, and network security tools<br><br> Looking to collaborate on full-stack development, AI/ML, data analytics, and cybersecurity projects<br><br> Currently learning advanced Java, scalable backend systems, and secure application design<br><br> Ask me about web development, machine learning, data-driven systems, and hackathon projects<br><br> Fun fact I love turning complex problems into clean, real-world solutions
 
 
 ## 🌐 Socials:
